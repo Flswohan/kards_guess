@@ -7,7 +7,7 @@ from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent
 from nonebot.params import EventMessage
 
 # ========== 请修改下方的目标 QQ 号 ==========
-TARGET_QQ = 123456  # 替换为 @KardsAmiya 的 QQ 号
+TARGET_QQ = 3889738531  # 替换为 @KardsAmiya 的 QQ 号
 # =========================================
 
 # 加载卡牌数据（必须将 cards.json 放在本插件文件夹内）
